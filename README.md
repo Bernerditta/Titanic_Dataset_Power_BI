@@ -42,7 +42,8 @@ All aboard the Titanic dataset! 🛳️ In this project, I dove into the famous 
 - 🌍 **Passenger Demographics**: Gained insights into the age and gender distribution of passengers.  
 - 🚨 **Survival Factors**: Highlighted key factors influencing survival, such as family size, embarkation point, and ticket class.  
 
-![Sample Visualization](<img width="643" alt="Screenshot 2024-12-12 192727" src="https://github.com/user-attachments/assets/87d386c2-08a0-4066-9895-8b002573aa5a" />
+![Sample Visualization]
+(<img width="643" alt="Screenshot 2024-12-12 192727" src="https://github.com/user-attachments/assets/87d386c2-08a0-4066-9895-8b002573aa5a" />
 
 )  
 
