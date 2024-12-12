@@ -3,7 +3,7 @@
 ## 🎯 Project Overview  
 All aboard the Titanic dataset! 🛳️ In this project, I dove into the famous Titanic dataset and performed an in-depth analysis using **Power BI**. From data cleaning to creating insightful visualizations, I uncovered patterns in survival rates, passenger demographics, and ticket classes. The result? A sleek, interactive Power BI dashboard that tells the story of the Titanic passengers in a visually engaging way! ✨  
 
-![Dashboard Preview](Screenshot 2024-12-12 192727.png)  
+[View the Dashboard Here](https://app.powerbi.com/links/9sXR--yQvu?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
 
 ---
 
@@ -42,7 +42,7 @@ All aboard the Titanic dataset! 🛳️ In this project, I dove into the famous 
 - 🌍 **Passenger Demographics**: Gained insights into the age and gender distribution of passengers.  
 - 🚨 **Survival Factors**: Highlighted key factors influencing survival, such as family size, embarkation point, and ticket class.  
 
-![Sample Visualization](![image]<img width="643" alt="Screenshot 2024-12-12 192727" src="https://github.com/user-attachments/assets/bd164ba8-e88b-4287-bfe3-6aa2dc3951c9" />
+![Sample Visualization](<img width="643" alt="Screenshot 2024-12-12 192727" src="https://github.com/user-attachments/assets/bd164ba8-e88b-4287-bfe3-6aa2dc3951c9" />
 )
 )  
 
